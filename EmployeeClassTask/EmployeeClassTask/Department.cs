@@ -54,7 +54,7 @@ namespace EmployeeClassTask
                 }
                 if (a == false)
                 {
-                    Console.WriteLine("Bu araligda Isci yoxdur!");
+                    Console.WriteLine($"{minSalary} {maxSalary} araliginda Isci yoxdur!");
                 }
             }
             else
