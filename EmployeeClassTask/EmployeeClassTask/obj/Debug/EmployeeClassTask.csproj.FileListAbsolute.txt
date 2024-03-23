@@ -5,3 +5,10 @@ C:\Users\Sirac Huseynov\Desktop\UniTekrar\EmployeeClassTask\EmployeeClassTask\ob
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.csproj.CoreCompileInputs.cache
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.exe
 C:\Users\Sirac Huseynov\Desktop\UniTekrar\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.pdb
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\bin\Debug\EmployeeClassTask.exe.config
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\bin\Debug\EmployeeClassTask.exe
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\bin\Debug\EmployeeClassTask.pdb
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.exe
+C:\Users\Sirac Huseynov\Desktop\codee's repo\EmployeeClassTask\EmployeeClassTask\EmployeeClassTask\obj\Debug\EmployeeClassTask.pdb

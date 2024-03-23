@@ -37,25 +37,25 @@ namespace EmployeeClassTask
 
                 if (answer == "1")
                 {
-                    Console.WriteLine("Isci adini daxil edin: ");
+                    Console.Write("Isci adini daxil edin: ");
 
                     string name = Console.ReadLine();
 
-                    Console.WriteLine("Isci soyadini daxil edin: ");
+                    Console.Write("Isci soyadini daxil edin: ");
                     string surname = Console.ReadLine();
                     do
                     {
-                        Console.WriteLine("Iscinin yasini daxil edin: ");
+                        Console.Write("Iscinin yasini daxil edin: ");
                         strAge = Console.ReadLine();
                     }
                     while (!byte.TryParse(strAge, out resultAge));
 
-                    Console.WriteLine("Iscinin department adini daxil edin: ");
+                    Console.Write("Iscinin department adini daxil edin: ");
                     string departmentName = Console.ReadLine();
 
                     do
                     {
-                        Console.WriteLine("Iscinin maasini daxil edin: ");
+                        Console.Write("Iscinin maasini daxil edin: ");
                         strSalary = Console.ReadLine();
                     }
                     while (!double.TryParse(strSalary, out resultSalary));

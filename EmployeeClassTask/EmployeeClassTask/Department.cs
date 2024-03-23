@@ -47,8 +47,8 @@ namespace EmployeeClassTask
                                       $"{employees[i].Age}," + " " +
                                       $"{employees[i].DepartmentName}" + " " +
                                       $"{employees[i].Salary}");
-                    }
-                }
+                    }                   
+                }     
             }
             else
             {
