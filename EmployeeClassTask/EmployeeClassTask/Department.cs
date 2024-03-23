@@ -38,6 +38,7 @@ namespace EmployeeClassTask
         {
             if (employees.Length > 0)
             {
+                bool a = false;
                 for (int i = 0; i < employees.Length; i++)
                 {
                     if (employees[i].Salary > minSalary && employees[i].Salary < maxSalary)
@@ -47,8 +48,14 @@ namespace EmployeeClassTask
                                       $"{employees[i].Age}," + " " +
                                       $"{employees[i].DepartmentName}" + " " +
                                       $"{employees[i].Salary}");
-                    }                   
-                }     
+                        a = true;
+                    }
+
+                }
+                if (a == false)
+                {
+                    Console.WriteLine("Bu araligda Isci yoxdur!");
+                }
             }
             else
             {
